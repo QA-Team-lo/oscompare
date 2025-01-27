@@ -1,0 +1,473 @@
+[openeuler@openeuler-riscv64 ~]$ [ 4730.653369][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 10248msec
+[ 4730.659954][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4730.877369][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 10244msec
+[ 4730.883930][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4731.165498][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 10760msec
+[ 4731.172323][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4731.393375][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 10760msec
+[ 4731.399959][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4731.677368][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 11272msec
+[ 4731.683943][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4731.901376][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 11268msec
+[ 4731.907936][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4732.189353][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 11784msec
+[ 4732.195921][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4732.413452][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 11780msec
+[ 4732.420039][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4732.701358][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 12296msec
+[ 4732.707917][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4732.925414][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 12292msec
+[ 4732.932025][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4733.213386][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 12808msec
+[ 4733.219971][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4733.437397][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 12804msec
+[ 4733.443960][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4733.725359][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 13320msec
+[ 4733.731915][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4733.949369][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 13316msec
+[ 4733.955927][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4734.237358][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 13832msec
+[ 4734.243916][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4734.461363][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 13828msec
+[ 4734.467920][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4734.749421][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 14344msec
+[ 4734.756013][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4734.973385][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 14340msec
+[ 4734.979975][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4735.261359][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 14856msec
+[ 4735.267924][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4735.485365][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 14852msec
+[ 4735.491924][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4735.773357][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 15368msec
+[ 4735.779920][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4736.001360][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 15368msec
+[ 4736.007924][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4736.285366][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 15880msec
+[ 4736.291928][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4736.509427][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 15876msec
+[ 4736.516062][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4736.797388][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 16392msec
+[ 4736.803971][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4737.025380][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 16392msec
+[ 4737.031945][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4737.309354][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 16904msec
+[ 4737.315910][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4737.533376][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 16900msec
+[ 4737.539937][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4737.821356][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 17416msec
+[ 4737.827909][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4738.049344][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 17416msec
+[ 4738.055912][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4738.333410][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 17928msec
+[ 4738.340032][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4738.557364][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 17924msec
+[ 4738.563936][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4738.845363][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 18440msec
+[ 4738.851920][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4739.069349][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 18436msec
+[ 4739.075938][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4739.357358][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 18952msec
+[ 4739.363922][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4739.581354][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 18948msec
+[ 4739.587915][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4739.869391][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 19464msec
+[ 4739.875999][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4740.093366][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 19460msec
+[ 4740.099974][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4740.381356][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 19976msec
+[ 4740.387929][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4740.605352][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 19972msec
+[ 4740.612072][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4740.893352][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 20488msec
+[ 4740.899909][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4741.117355][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 20484msec
+[ 4741.123913][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4741.405349][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 21000msec
+[ 4741.411917][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4741.629432][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 20996msec
+[ 4741.636013][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4741.917381][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 21512msec
+[ 4741.923969][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4742.141366][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 21508msec
+[ 4742.147929][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4742.429339][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 22024msec
+[ 4742.435912][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4742.653348][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 22020msec
+[ 4742.659903][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4742.941353][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 22536msec
+[ 4742.947922][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4743.165438][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 22532msec
+[ 4743.172005][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4743.453403][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 23048msec
+[ 4743.460184][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4743.677371][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 23044msec
+[ 4743.683959][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4743.965353][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 23560msec
+[ 4743.971919][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4744.189338][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 23556msec
+[ 4744.195896][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4744.477344][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 24072msec
+[ 4744.483900][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4744.701347][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 24068msec
+[ 4744.707901][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4744.989345][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 24584msec
+[ 4744.995901][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4745.213440][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 24580msec
+[ 4745.220047][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4745.501365][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 25096msec
+[ 4745.507949][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4745.725359][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 25092msec
+[ 4745.731916][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4746.013347][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 25608msec
+[ 4746.019905][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4746.237352][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 25604msec
+[ 4746.243915][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4746.525356][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 26120msec
+[ 4746.531940][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4746.749353][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 26116msec
+[ 4746.755917][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4747.037415][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 26632msec
+[ 4747.044025][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4747.261450][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 26628msec
+[ 4747.268058][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4747.549350][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 27144msec
+[ 4747.555915][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4747.773341][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 27140msec
+[ 4747.779896][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4748.061342][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 27656msec
+[ 4748.067898][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4748.285341][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 27652msec
+[ 4748.291895][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4748.573378][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 28168msec
+[ 4748.579975][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4748.797357][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 28164msec
+[ 4748.803956][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4749.085345][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 28680msec
+[ 4749.091914][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4749.309343][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 28676msec
+[ 4749.315900][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4749.597344][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 29192msec
+[ 4749.603903][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4749.821341][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 29188msec
+[ 4749.827894][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4750.109336][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 29704msec
+[ 4750.115910][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4750.333399][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 29700msec
+[ 4750.340031][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4750.621365][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 30216msec
+[ 4750.627960][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4750.845377][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 30212msec
+[ 4750.851937][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4751.133349][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 30728msec
+[ 4751.139911][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4751.357349][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 30724msec
+[ 4751.363909][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4751.645354][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 31240msec
+[ 4751.651919][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4751.869338][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 31236msec
+[ 4751.875894][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4752.157372][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 31752msec
+[ 4752.164624][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4752.381363][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 31748msec
+[ 4752.387950][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4752.669349][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 32264msec
+[ 4752.675915][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4752.893335][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 32260msec
+[ 4752.899892][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4753.181327][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 32776msec
+[ 4753.187899][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4753.405336][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 32772msec
+[ 4753.411895][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4753.693328][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 33288msec
+[ 4753.699896][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4753.921367][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 33288msec
+[ 4753.927985][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4754.205348][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 33800msec
+[ 4754.211946][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4754.429443][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 33796msec
+[ 4754.436033][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4754.717328][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 34312msec
+[ 4754.723886][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4754.941327][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 34308msec
+[ 4754.947883][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4755.229327][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 34824msec
+[ 4755.235885][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4755.453330][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 34820msec
+[ 4755.459889][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4755.741381][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 35336msec
+[ 4755.748247][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4755.965336][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 35332msec
+[ 4755.971906][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4756.253333][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 35848msec
+[ 4756.259899][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4756.477336][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 35844msec
+[ 4756.483899][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4756.765342][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 36360msec
+[ 4756.771898][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4756.989331][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 36356msec
+[ 4756.995888][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4757.277365][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 36872msec
+[ 4757.283969][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4757.501358][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 36868msec
+[ 4757.507957][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4757.789343][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 37384msec
+[ 4757.795900][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4758.013338][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 37380msec
+[ 4758.019900][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4758.301343][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 37896msec
+[ 4758.307912][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4758.525338][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 37892msec
+[ 4758.531900][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4758.813323][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 38408msec
+[ 4758.819884][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4759.037380][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 38404msec
+[ 4759.043987][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4759.325356][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 38920msec
+[ 4759.331942][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4759.549335][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 38916msec
+[ 4759.555905][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4759.837328][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 39432msec
+[ 4759.843883][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4760.061330][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 39428msec
+[ 4760.067889][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4760.349327][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 39944msec
+[ 4760.355880][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4760.573327][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 39940msec
+[ 4760.579886][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4760.861380][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 40456msec
+[ 4760.867986][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4761.085341][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 40452msec
+[ 4761.091927][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4761.373334][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 40968msec
+[ 4761.379898][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4761.597325][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 40964msec
+[ 4761.603890][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4761.885327][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 41480msec
+[ 4761.891890][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4762.109335][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 41476msec
+[ 4762.115895][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4762.397325][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 41992msec
+[ 4762.403878][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4762.621382][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 41988msec
+[ 4762.627988][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4762.909339][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 42504msec
+[ 4762.915930][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4763.133332][ T2127] radeon 0000:07:00.0: ring 3 stalled for more than 42500msec
+[ 4763.139893][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x000000000004fee7 last fence id 0x000000000004feeb on ring 3)
+[ 4763.425354][ T2127] radeon 0000:07:00.0: ring 0 stalled for more than 43020msec
+[ 4763.432135][ T2127] radeon 0000:07:00.0: GPU lockup (current fence id 0x0000000000017782 last fence id 0x0000000000017785 on ring 0)
+[ 4763.665644][  T185] radeon 0000:07:00.0: Saved 210 dwords of commands on ring 0.
+[ 4763.672330][  T185] radeon 0000:07:00.0: GPU softreset: 0x0000000C
+[ 4763.678487][  T185] radeon 0000:07:00.0:   GRBM_STATUS               = 0xA0003828
+[ 4763.685949][  T185] radeon 0000:07:00.0:   GRBM_STATUS_SE0           = 0x00000007
+[ 4763.693408][  T185] radeon 0000:07:00.0:   GRBM_STATUS_SE1           = 0x00000007
+[ 4763.700885][  T185] radeon 0000:07:00.0:   SRBM_STATUS               = 0x200000C0
+[ 4763.708356][  T185] radeon 0000:07:00.0:   SRBM_STATUS2              = 0x00000000
+[ 4763.715844][  T185] radeon 0000:07:00.0:   R_008674_CP_STALLED_STAT1 = 0x00000000
+[ 4763.723294][  T185] radeon 0000:07:00.0:   R_008678_CP_STALLED_STAT2 = 0x00010002
+[ 4763.730757][  T185] radeon 0000:07:00.0:   R_00867C_CP_BUSY_STAT     = 0x00020186
+[ 4763.738228][  T185] radeon 0000:07:00.0:   R_008680_CP_STAT          = 0x80038647
+[ 4763.745696][  T185] radeon 0000:07:00.0:   R_00D034_DMA_STATUS_REG   = 0x44C88246
+[ 4763.759945][  T185] radeon 0000:07:00.0: GRBM_SOFT_RESET=0x00004001
+[ 4763.765497][  T185] radeon 0000:07:00.0: SRBM_SOFT_RESET=0x00100100
+[ 4763.772862][  T185] radeon 0000:07:00.0:   GRBM_STATUS               = 0x00003828
+[ 4763.779593][  T185] radeon 0000:07:00.0:   GRBM_STATUS_SE0           = 0x00000007
+[ 4763.787056][  T185] radeon 0000:07:00.0:   GRBM_STATUS_SE1           = 0x00000007
+[ 4763.794528][  T185] radeon 0000:07:00.0:   SRBM_STATUS               = 0x200000C0
+[ 4763.802005][  T185] radeon 0000:07:00.0:   SRBM_STATUS2              = 0x00000000
+[ 4763.809470][  T185] radeon 0000:07:00.0:   R_008674_CP_STALLED_STAT1 = 0x00000000
+[ 4763.816935][  T185] radeon 0000:07:00.0:   R_008678_CP_STALLED_STAT2 = 0x00000000
+[ 4763.824405][  T185] radeon 0000:07:00.0:   R_00867C_CP_BUSY_STAT     = 0x00000000
+[ 4763.831874][  T185] radeon 0000:07:00.0:   R_008680_CP_STAT          = 0x00000000
+[ 4763.839347][  T185] radeon 0000:07:00.0:   R_00D034_DMA_STATUS_REG   = 0x44C83D57
+[ 4763.846836][  T185] radeon 0000:07:00.0: GPU reset succeeded, trying to resume
+[ 4763.864500][  T185] [drm] enabling PCIE gen 2 link speeds, disable with radeon.pcie_gen2=0
+[ 4763.899818][  T185] [drm] PCIE GART of 1024M enabled (table at 0x0000000000162000).
+[ 4763.906892][  T185] radeon 0000:07:00.0: WB enabled
+[ 4763.911613][  T185] radeon 0000:07:00.0: fence driver on ring 0 use gpu addr 0x0000000080000c00
+[ 4763.920295][  T185] radeon 0000:07:00.0: fence driver on ring 3 use gpu addr 0x0000000080000c0c
+[ 4763.932442][  T185] radeon 0000:07:00.0: fence driver on ring 5 use gpu addr 0x0000000000072118
+[ 4763.940622][  T185] debugfs: File 'radeon_ring_gfx' in directory '0' already present!
+[ 4763.948215][  T185] debugfs: File 'radeon_ring_dma1' in directory '0' already present!
+[ 4763.972355][  T185] [drm] ring test on 0 succeeded in 1 usecs
+[ 4763.977364][  T185] [drm] ring test on 3 succeeded in 9 usecs
+[ 4763.983086][  T185] debugfs: File 'radeon_ring_uvd' in directory '0' already present!
+[ 4764.167989][  T185] [drm] ring test on 5 succeeded in 2 usecs
+[ 4764.173005][  T185] [drm] UVD initialized successfully.
+[ 4955.261164][   T38] INFO: task kworker/1:1H:185 blocked for more than 120 seconds.
+[ 4955.268018][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 4955.274605][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 4955.283104][   T38] task:kworker/1:1H    state:D stack:0     pid:185   ppid:2      flags:0x00000000
+[ 4955.292145][   T38] Workqueue: radeon-crtc radeon_flip_work_func [radeon]
+[ 4955.373565][   T38] Call Trace:
+[ 4955.376657][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 4955.382599][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 4955.388142][   T38] [<ffffffff80d98650>] schedule_preempt_disabled+0x16/0x28
+[ 4955.395191][   T38] [<ffffffff80d9b6d0>] rwsem_down_write_slowpath+0x194/0x48c
+[ 4955.402391][   T38] [<ffffffff80d9ba38>] down_write+0x70/0x72
+[ 4955.408122][   T38] [<ffffffff02e675ba>] radeon_dpm_change_power_state_locked+0x8e/0x24c [radeon]
+[ 4955.490803][   T38] [<ffffffff02e68770>] radeon_pm_compute_clocks+0xea/0x104 [radeon]
+[ 4955.575281][   T38] [<ffffffff02e68c4c>] radeon_pm_late_init+0xd8/0x1a2 [radeon]
+[ 4955.659207][   T38] [<ffffffff02e06502>] radeon_gpu_reset+0x262/0x2fe [radeon]
+[ 4955.742212][   T38] [<ffffffff02e2b1f0>] radeon_flip_work_func+0x1bc/0x212 [radeon]
+[ 4955.823394][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 4955.829827][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 4955.835996][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 4955.841464][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 4955.847440][   T38] INFO: task Xorg:1124 blocked for more than 121 seconds.
+[ 4955.854325][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 4955.860930][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 4955.869434][   T38] task:Xorg            state:D stack:0     pid:1124  ppid:580    flags:0x00000004
+[ 4955.878467][   T38] Call Trace:
+[ 4955.881591][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 4955.887498][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 4955.893057][   T38] [<ffffffff80d98650>] schedule_preempt_disabled+0x16/0x28
+[ 4955.900092][   T38] [<ffffffff80d9b022>] rwsem_down_read_slowpath+0x15e/0x3e6
+[ 4955.907215][   T38] [<ffffffff80d9b2fa>] down_read+0x50/0xc0
+[ 4955.912865][   T38] [<ffffffff02e30318>] radeon_gem_create_ioctl+0x34/0x11c [radeon]
+[ 4955.994301][   T38] [<ffffffff80802834>] drm_ioctl_kernel+0x9a/0x118
+[ 4956.000642][   T38] [<ffffffff80802bbc>] drm_ioctl+0x206/0x3e8
+[ 4956.006461][   T38] [<ffffffff02e04040>] radeon_drm_ioctl+0x40/0x86 [radeon]
+[ 4956.087018][   T38] [<ffffffff802bb40e>] __riscv_sys_ioctl+0x86/0x9c
+[ 4956.093366][   T38] [<ffffffff80d9480c>] do_trap_ecall_u+0x88/0x14e
+[ 4956.099621][   T38] [<ffffffff80d9f808>] ret_from_exception+0x0/0x64
+[ 4956.106051][   T38] INFO: task kworker/0:1:2127 blocked for more than 121 seconds.
+[ 4956.113529][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 4956.120115][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 4956.128626][   T38] task:kworker/0:1     state:D stack:0     pid:2127  ppid:2      flags:0x00000000
+[ 4956.137661][   T38] Workqueue: events radeon_dpm_thermal_work_handler [radeon]
+[ 4956.218850][   T38] Call Trace:
+[ 4956.221960][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 4956.227866][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 4956.233423][   T38] [<ffffffff80d98650>] schedule_preempt_disabled+0x16/0x28
+[ 4956.240469][   T38] [<ffffffff80d994a2>] __mutex_lock.constprop.0+0x318/0x7ce
+[ 4956.247583][   T38] [<ffffffff80d99a30>] __mutex_lock_slowpath+0xe/0x16
+[ 4956.254182][   T38] [<ffffffff80d99a7a>] mutex_lock+0x42/0x4c
+[ 4956.259919][   T38] [<ffffffff02e68b6a>] radeon_dpm_thermal_work_handler+0x8a/0x94 [radeon]
+[ 4956.341853][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 4956.348289][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 4956.354458][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 4956.359922][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 4956.365855][   T38] INFO: task kworker/0:2H:2242 blocked for more than 121 seconds.
+[ 4956.373501][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 4956.380105][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 4956.388602][   T38] task:kworker/0:2H    state:D stack:0     pid:2242  ppid:2      flags:0x00000000
+[ 4956.397622][   T38] Workqueue: ttm ttm_bo_delayed_delete [ttm]
+[ 4956.404483][   T38] Call Trace:
+[ 4956.407596][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 4956.413503][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 4956.419060][   T38] [<ffffffff80d9d8ac>] schedule_timeout+0x254/0x28a
+[ 4956.425492][   T38] [<ffffffff02e1af84>] radeon_fence_default_wait+0xb2/0x12c [radeon]
+[ 4956.507972][   T38] [<ffffffff80882abe>] dma_fence_wait_timeout+0x60/0x15c
+[ 4956.514836][   T38] [<ffffffff80884c60>] dma_resv_wait_timeout+0x4a/0xaa
+[ 4956.521522][   T38] [<ffffffff025a02cc>] ttm_bo_delayed_delete+0x20/0x94 [ttm]
+[ 4956.529489][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 4956.535906][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 4956.542072][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 4956.547543][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 4956.553531][   T38] INFO: task kworker/0:1H:2838 blocked for more than 122 seconds.
+[ 4956.561101][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 4956.567695][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 4956.576206][   T38] task:kworker/0:1H    state:D stack:0     pid:2838  ppid:2      flags:0x00000000
+[ 4956.585243][   T38] Workqueue: ttm ttm_bo_delayed_delete [ttm]
+[ 4956.591064][   T38] Call Trace:
+[ 4956.594186][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 4956.600093][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 4956.605651][   T38] [<ffffffff80d9d8ac>] schedule_timeout+0x254/0x28a
+[ 4956.612082][   T38] [<ffffffff02e1af84>] radeon_fence_default_wait+0xb2/0x12c [radeon]
+[ 4956.694171][   T38] [<ffffffff80882abe>] dma_fence_wait_timeout+0x60/0x15c
+[ 4956.701040][   T38] [<ffffffff80884c60>] dma_resv_wait_timeout+0x4a/0xaa
+[ 4956.707720][   T38] [<ffffffff025a02cc>] ttm_bo_delayed_delete+0x20/0x94 [ttm]
+[ 4956.715708][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 4956.722143][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 4956.728309][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 4956.733781][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 4956.739712][   T38] INFO: task kworker/1:0H:3113 blocked for more than 122 seconds.
+[ 4956.747336][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 4956.753931][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 4956.762444][   T38] task:kworker/1:0H    state:D stack:0     pid:3113  ppid:2      flags:0x00000000
+[ 4956.771481][   T38] Workqueue: ttm ttm_bo_delayed_delete [ttm]
+[ 4956.777301][   T38] Call Trace:
+[ 4956.780406][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 4956.786331][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 4956.791888][   T38] [<ffffffff80d9d8ac>] schedule_timeout+0x254/0x28a
+[ 4956.798339][   T38] [<ffffffff02e1af84>] radeon_fence_default_wait+0xb2/0x12c [radeon]
+[ 4956.882269][   T38] [<ffffffff80882abe>] dma_fence_wait_timeout+0x60/0x15c
+[ 4956.889126][   T38] [<ffffffff80884c60>] dma_resv_wait_timeout+0x4a/0xaa
+[ 4956.895816][   T38] [<ffffffff025a02cc>] ttm_bo_delayed_delete+0x20/0x94 [ttm]
+[ 4956.903840][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 4956.910275][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 4956.916440][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 4956.921912][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 5078.140951][   T38] INFO: task kworker/1:1H:185 blocked for more than 243 seconds.
+[ 5078.147801][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 5078.154399][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 5078.162910][   T38] task:kworker/1:1H    state:D stack:0     pid:185   ppid:2      flags:0x00000000
+[ 5078.171939][   T38] Workqueue: radeon-crtc radeon_flip_work_func [radeon]
+[ 5078.253230][   T38] Call Trace:
+[ 5078.256327][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 5078.262257][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 5078.267827][   T38] [<ffffffff80d98650>] schedule_preempt_disabled+0x16/0x28
+[ 5078.274854][   T38] [<ffffffff80d9b6d0>] rwsem_down_write_slowpath+0x194/0x48c
+[ 5078.282057][   T38] [<ffffffff80d9ba38>] down_write+0x70/0x72
+[ 5078.287812][   T38] [<ffffffff02e675ba>] radeon_dpm_change_power_state_locked+0x8e/0x24c [radeon]
+[ 5078.373216][   T38] [<ffffffff02e68770>] radeon_pm_compute_clocks+0xea/0x104 [radeon]
+[ 5078.457542][   T38] [<ffffffff02e68c4c>] radeon_pm_late_init+0xd8/0x1a2 [radeon]
+[ 5078.541217][   T38] [<ffffffff02e06502>] radeon_gpu_reset+0x262/0x2fe [radeon]
+[ 5078.622072][   T38] [<ffffffff02e2b1f0>] radeon_flip_work_func+0x1bc/0x212 [radeon]
+[ 5078.703192][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 5078.709627][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 5078.715796][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 5078.721260][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 5078.727237][   T38] INFO: task Xorg:1124 blocked for more than 244 seconds.
+[ 5078.734122][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 5078.740726][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 5078.749229][   T38] task:Xorg            state:D stack:0     pid:1124  ppid:580    flags:0x00000004
+[ 5078.758263][   T38] Call Trace:
+[ 5078.761387][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 5078.767296][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 5078.772854][   T38] [<ffffffff80d98650>] schedule_preempt_disabled+0x16/0x28
+[ 5078.779889][   T38] [<ffffffff80d9b022>] rwsem_down_read_slowpath+0x15e/0x3e6
+[ 5078.787011][   T38] [<ffffffff80d9b2fa>] down_read+0x50/0xc0
+[ 5078.792661][   T38] [<ffffffff02e30318>] radeon_gem_create_ioctl+0x34/0x11c [radeon]
+[ 5078.874083][   T38] [<ffffffff80802834>] drm_ioctl_kernel+0x9a/0x118
+[ 5078.880423][   T38] [<ffffffff80802bbc>] drm_ioctl+0x206/0x3e8
+[ 5078.886241][   T38] [<ffffffff02e04040>] radeon_drm_ioctl+0x40/0x86 [radeon]
+[ 5078.966764][   T38] [<ffffffff802bb40e>] __riscv_sys_ioctl+0x86/0x9c
+[ 5078.973110][   T38] [<ffffffff80d9480c>] do_trap_ecall_u+0x88/0x14e
+[ 5078.979367][   T38] [<ffffffff80d9f808>] ret_from_exception+0x0/0x64
+[ 5078.985801][   T38] INFO: task kworker/0:1:2127 blocked for more than 244 seconds.
+[ 5078.993272][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 5078.999860][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 5079.008369][   T38] task:kworker/0:1     state:D stack:0     pid:2127  ppid:2      flags:0x00000000
+[ 5079.017405][   T38] Workqueue: events radeon_dpm_thermal_work_handler [radeon]
+[ 5079.098350][   T38] Call Trace:
+[ 5079.101470][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 5079.107374][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 5079.112929][   T38] [<ffffffff80d98650>] schedule_preempt_disabled+0x16/0x28
+[ 5079.119976][   T38] [<ffffffff80d994a2>] __mutex_lock.constprop.0+0x318/0x7ce
+[ 5079.127090][   T38] [<ffffffff80d99a30>] __mutex_lock_slowpath+0xe/0x16
+[ 5079.133689][   T38] [<ffffffff80d99a7a>] mutex_lock+0x42/0x4c
+[ 5079.139425][   T38] [<ffffffff02e68b6a>] radeon_dpm_thermal_work_handler+0x8a/0x94 [radeon]
+[ 5079.221391][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 5079.227826][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 5079.233994][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 5079.239461][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 5079.245394][   T38] INFO: task kworker/0:2H:2242 blocked for more than 244 seconds.
+[ 5079.253043][   T38]       Not tainted 6.6.0-41.0.0.51.oe2409.riscv64 #1
+[ 5079.259647][   T38] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[ 5079.268142][   T38] task:kworker/0:2H    state:D stack:0     pid:2242  ppid:2      flags:0x00000000
+[ 5079.277164][   T38] Workqueue: ttm ttm_bo_delayed_delete [ttm]
+[ 5079.284023][   T38] Call Trace:
+[ 5079.287136][   T38] [<ffffffff80d97cda>] __schedule+0x54a/0xa62
+[ 5079.293040][   T38] [<ffffffff80d98242>] schedule+0x50/0xaa
+[ 5079.298598][   T38] [<ffffffff80d9d8ac>] schedule_timeout+0x254/0x28a
+[ 5079.305031][   T38] [<ffffffff02e1af84>] radeon_fence_default_wait+0xb2/0x12c [radeon]
+[ 5079.387564][   T38] [<ffffffff80882abe>] dma_fence_wait_timeout+0x60/0x15c
+[ 5079.394426][   T38] [<ffffffff80884c60>] dma_resv_wait_timeout+0x4a/0xaa
+[ 5079.401112][   T38] [<ffffffff025a02cc>] ttm_bo_delayed_delete+0x20/0x94 [ttm]
+[ 5079.409090][   T38] [<ffffffff8004ea82>] process_one_work+0x11a/0x2fe
+[ 5079.415509][   T38] [<ffffffff8004eed0>] worker_thread+0x26a/0x336
+[ 5079.421672][   T38] [<ffffffff80056e3c>] kthread+0xd6/0xf2
+[ 5079.427145][   T38] [<ffffffff80d9f912>] ret_from_fork+0xe/0x1c
+[ 5079.433054][   T38] Future hung task reports are suppressed, see sysctl kernel.hung_task_warnings
