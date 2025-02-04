@@ -25,12 +25,12 @@ openEuler/openKylin/openAnolis/deepin 在部分 RISC-V 开发板或 QEMU 上的�
 
 ## 系统支持情况
 
-| Board/OS   | Lichee Pi 4A | Milk-V Meles    | BPI-F3    | Milk-V Jupiter  | SiFive HiFive Unmatched | Milk-V Pioneer | QEMU |
-|------------|--------------|-----------------|-----------|-----------------|-------------------------|----------------|------|
-| openEuler  | ✅            | ❌无法启动       | ❌无法启动 | ❌无法启动       | ✅非主线支持             | ✅              | ✅    |
-| openKylin  | ✅            | ❔非官方支持设备 | ✅         | ❔非官方支持设备 | ✅/❔仅 1.0               | ✅              | ❌    |
-| deepin     | ✅            | ✅非官方支持设备 | ✅         | ❔               | ❌已终止支持（2022）       | ✅              | ✅    |
-| openAnolis | ❌            | ❌               | ❌         | ❌               | ❌                       | ❌              | ✅    |
+| Board/OS   | Lichee Pi 4A | Milk-V Meles    | BPI-F3    | Milk-V Jupiter | SiFive HiFive Unmatched | Milk-V Pioneer | QEMU |
+|------------|--------------|-----------------|-----------|----------------|-------------------------|----------------|------|
+| openEuler  | ✅            | ❌无法启动       | ❌无法启动 | ❌无法启动      | ✅非主线支持             | ✅              | ✅    |
+| openKylin  | ✅            | ❔非官方支持设备 | ✅         | ❌无法启动      | ✅/❔仅 1.0               | ✅              | ❌    |
+| deepin     | ✅            | ✅非官方支持设备 | ✅         | ❔              | ❌已终止支持（2022）       | ✅              | ✅    |
+| openAnolis | ❌            | ❌               | ❌         | ❌              | ❌                       | ❌              | ✅    |
 
 - ✅：有官方支持
 - ❌：无支持/已放弃支持（EOL）
@@ -50,6 +50,7 @@ openEuler/openKylin/openAnolis/deepin 在部分 RISC-V 开发板或 QEMU 上的�
 - BPI-F3: @Sharelter
 - LPi4A 16G + 128G: @stydxm & @panglars
 - LPi4A 8G + 32G: @wychlw
+- Milk-V Jupiter: @KevinMX
 - Milk-V Meles: @KevinMX
 - Milk-V Pioneer: @aisuneko & @KevinMX
 - QEMU: @255doesnotexist & @aisuneko
